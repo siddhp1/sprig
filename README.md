@@ -8,4 +8,4 @@ This repository is a fork of the main Hack Club Sprig Repository. As a result, t
 
 **[See the source code for ConnectX here.](https://github.com/siddhp1/ConnectX/blob/main/games/ConnectX.js)**
 
-Follow **[these instructions](https://github.com/siddhp1/ConnectX/blob/main/docs/UPLOAD.md)** by Hack Club to play this game on your Sprig Console. 
+Follow **[these instructions](https://github.com/siddhp1/ConnectX/blob/main/docs/UPLOAD.md)** by Hack Club to play this game on your Sprig Console, and **[these instructions](https://github.com/hackclub/spade/blob/main/README.md)**, also by Hack Club, for playing this game on your PC.
